@@ -15,6 +15,7 @@ public class Secondtry {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("did it work");    }
+        System.out.println("did it work");
+        int x = 5;    }
     
 }
